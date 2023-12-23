@@ -1,5 +1,5 @@
 import cv2
-import mediapipe as mp
+import mediapipe as mp # not support termux for android os
 import tkinter as tk
 from PIL import Image, ImageTk
 
